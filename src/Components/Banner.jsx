@@ -1,7 +1,8 @@
 import React from 'react';
 import appStoreLogo from '../assets/Group (3).png'
 import hero from '../assets/hero.png'
-const Banner = () => {
+const 
+Banner = () => {
     return (
         <div className='bg-gray-100 py-20 text-center '>
             <div class=" mb-5 md:mb-10">
@@ -44,7 +45,7 @@ const Banner = () => {
             <div className='flex justify-center items-center'>
                  <img className='h-50 w-80 md:w-140 md:h-80' src={hero} alt="" />
             </div>
-            <div className='border w-full  bg-gradient-to-r from-[#632EE3] to-[#9F62F2] space-y-7 '>
+            <div className='border border-gray-100 w-full  bg-gradient-to-r from-[#632EE3] to-[#9F62F2] space-y-7 '>
                 <h2 className='text-2xl mb:text-3xl font-semibold mt-10 text-white'>Trusted by Millions, Built for You</h2>
                 <div className='flex justify-center items-center gap-10 mb-10 '>
                     <div className='space-y-3 '>

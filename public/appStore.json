@@ -4,11 +4,10 @@
     "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=200&h=200&fit=crop",
     "title": "Skyward Navigator",
     "companyName": "AeroSoft Labs",
-    "description": "Real-time flight tracking and weather updates for professional pilots and aviation enthusiasts.",
-    "size": 45.2,
+    "description": "Skyward Navigator stands as the definitive digital companion for the modern aviator, blending high-fidelity geospatial data with real-time atmospheric telemetry to provide an unmatched situational awareness experience. Designed specifically for the rigorous demands of professional pilots and dedicated aviation enthusiasts alike, this application transforms a standard tablet or smartphone into a sophisticated cockpit multi-function display. The core engine of Skyward Navigator integrates live Nexrad radar overlays, offering granular insights into localized weather patterns, storm cell progression, and wind shear warnings that are critical for flight safety and route optimization. Beyond simple tracking, the platform provides a comprehensive suite of pre-flight planning tools, including fuel consumption estimators based on current tailwinds and automatic NOTAM (Notice to Airmen) filtering that ensures pilots are aware of runway closures or temporary flight restrictions well before they reach their destination. The interface is engineered for high-stress environments, featuring high-contrast night modes and large, tactile-friendly touch points that remain legible even during moderate turbulence. Furthermore, the application supports global flight following, allowing users to monitor transponder data across international borders with minimal latency. By aggregating data from thousands of terrestrial ground stations and satellite arrays, Skyward Navigator offers a level of redundancy and precision previously reserved for expensive, built-in avionics systems. Whether you are navigating a light Cessna through a regional corridor or monitoring a long-haul commercial flight path, this tool provides the analytical depth required to make informed, split-second decisions in the air.",    "size": 45.2,
     "reviews": 1250,
     "ratingAvg": 4.5,
-    "downloads": 500000,
+    "downloads": 5,
     "ratings": [
       { "name": "1 star", "count": 50 },
       { "name": "2 star", "count": 100 },
@@ -22,11 +21,11 @@
     "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=200&h=200&fit=crop",
     "title": "ZenFlow Yoga",
     "companyName": "Mindful Apps Studio",
-    "description": "Daily yoga practices and meditation sessions tailored to your flexibility and stress levels.",
+"description": "ZenFlow Yoga is not merely a fitness application; it is a comprehensive digital sanctuary designed to facilitate a profound connection between the physical body and the meditative mind. In an era characterized by chronic stress and sedentary professional lives, ZenFlow offers a scientifically-structured approach to wellness that adapts to the specific needs of the individual user. The platform features an extensive library of high-definition video sequences ranging from restorative Hatha and vigorous Vinyasa to specialized Yin practices focused on deep connective tissue release. What distinguishes ZenFlow from traditional fitness apps is its proprietary 'Adaptive Flow' technology, which uses a brief daily check-in to assess the user's current energy levels, joint mobility, and psychological stress. Based on this biometric input, the app dynamically generates a custom practice that is neither too demanding nor too passive, ensuring a state of 'flow' that maximizes both physical gains and mental tranquility. Each session is accompanied by professional narration that emphasizes proper alignment, breathwork (Pranayama), and mindfulness cues to prevent injury and enhance the meditative experience. Furthermore, the app includes a dedicated module for guided meditations and Yoga Nidra, specifically crafted to improve sleep quality and cognitive focus. With its minimalist aesthetic and ad-free environment, ZenFlow Yoga provides a seamless journey toward holistic health, allowing users to cultivate a disciplined home practice that rivals the intensity and guidance found in elite urban studios. By integrating philosophy with movement, it empowers practitioners to carry the peace of the mat into every aspect of their daily lives.",
     "size": 112.5,
     "reviews": 8900,
     "ratingAvg": 4.8,
-    "downloads": 1200000,
+    "downloads": 1,
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name": "2 star", "count": 300 },
@@ -44,7 +43,7 @@
     "size": 32.8,
     "reviews": 4320,
     "ratingAvg": 4.2,
-    "downloads": 850000,
+    "downloads": 8,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 320 },
@@ -62,7 +61,7 @@
     "size": 88.4,
     "reviews": 2100,
     "ratingAvg": 4.6,
-    "downloads": 300000,
+    "downloads": 3,
     "ratings": [
       { "name": "1 star", "count": 50 },
       { "name": "2 star", "count": 150 },
@@ -80,7 +79,7 @@
     "size": 150.0,
     "reviews": 15600,
     "ratingAvg": 4.7,
-    "downloads": 2000000,
+    "downloads": 2,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 600 },
@@ -98,7 +97,7 @@
     "size": 210.3,
     "reviews": 32000,
     "ratingAvg": 4.9,
-    "downloads": 5000000,
+    "downloads": 5,
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name": "2 star", "count": 300 },
@@ -116,7 +115,7 @@
     "size": 18.2,
     "reviews": 750,
     "ratingAvg": 4.1,
-    "downloads": 100000,
+    "downloads": 1,
     "ratings": [
       { "name": "1 star", "count": 80 },
       { "name": "2 star", "count": 70 },
@@ -134,7 +133,7 @@
     "size": 55.6,
     "reviews": 6400,
     "ratingAvg": 4.4,
-    "downloads": 950000,
+    "downloads": 9,
     "ratings": [
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 400 },
@@ -145,14 +144,14 @@
   },
   {
     "id": 9,
-    "image": "https://images.unsplash.com/photo-1544652478-665caefab9b4?w=200&h=200&fit=crop",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=200&h=200",
     "title": "FitLevel",
     "companyName": "Iron Core Fitness",
     "description": "High-intensity interval training (HIIT) workouts you can do from home.",
     "size": 95.0,
     "reviews": 12800,
     "ratingAvg": 4.7,
-    "downloads": 3500000,
+    "downloads": 3,
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 200 },
@@ -170,7 +169,7 @@
     "size": 25.4,
     "reviews": 45000,
     "ratingAvg": 4.3,
-    "downloads": 10000000,
+    "downloads": 1,
     "ratings": [
       { "name": "1 star", "count": 4000 },
       { "name": "2 star", "count": 3000 },
@@ -188,7 +187,7 @@
     "size": 62.1,
     "reviews": 980,
     "ratingAvg": 3.9,
-    "downloads": 250000,
+    "downloads": 2,
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 130 },
@@ -206,7 +205,7 @@
     "size": 14.5,
     "reviews": 3400,
     "ratingAvg": 4.6,
-    "downloads": 700000,
+    "downloads": 7,
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 100 },
@@ -224,7 +223,7 @@
     "size": 120.7,
     "reviews": 11200,
     "ratingAvg": 4.5,
-    "downloads": 4000000,
+    "downloads": 4,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 700 },
@@ -242,7 +241,7 @@
     "size": 42.0,
     "reviews": 2150,
     "ratingAvg": 4.2,
-    "downloads": 600000,
+    "downloads": 6,
     "ratings": [
       { "name": "1 star", "count": 150 },
       { "name": "2 star", "count": 200 },
@@ -260,7 +259,7 @@
     "size": 31.9,
     "reviews": 18900,
     "ratingAvg": 4.7,
-    "downloads": 8000000,
+    "downloads": 8,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 500 },
@@ -278,7 +277,7 @@
     "size": 28.4,
     "reviews": 450,
     "ratingAvg": 3.8,
-    "downloads": 50000,
+    "downloads": 5,
     "ratings": [
       { "name": "1 star", "count": 60 },
       { "name": "2 star", "count": 80 },
@@ -296,7 +295,7 @@
     "size": 52.1,
     "reviews": 7200,
     "ratingAvg": 4.4,
-    "downloads": 1100000,
+    "downloads": 10,
     "ratings": [
       { "name": "1 star", "count": 400 },
       { "name": "2 star", "count": 400 },
@@ -314,7 +313,7 @@
     "size": 135.0,
     "reviews": 56000,
     "ratingAvg": 4.8,
-    "downloads": 15000000,
+    "downloads": 150,
     "ratings": [
       { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 1000 },
@@ -332,7 +331,7 @@
     "size": 78.3,
     "reviews": 14200,
     "ratingAvg": 4.3,
-    "downloads": 5000000,
+    "downloads": 500,
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1000 },
@@ -350,7 +349,7 @@
     "size": 66.8,
     "reviews": 3100,
     "ratingAvg": 4.5,
-    "downloads": 850000,
+    "downloads": 80,
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 200 },
@@ -368,7 +367,7 @@
     "size": 12.4,
     "reviews": 95000,
     "ratingAvg": 4.6,
-    "downloads": 50000000,
+    "downloads": 50,
     "ratings": [
       { "name": "1 star", "count": 5000 },
       { "name": "2 star", "count": 3000 },
@@ -386,7 +385,7 @@
     "size": 38.9,
     "reviews": 1200,
     "ratingAvg": 4.4,
-    "downloads": 150000,
+    "downloads": 15,
     "ratings": [
       { "name": "1 star", "count": 50 },
       { "name": "2 star", "count": 50 },
@@ -397,14 +396,14 @@
   },
   {
     "id": 23,
-    "image": "https://images.unsplash.com/photo-1493723843671-1d655e8d717f?w=200&h=200&fit=crop",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=200&h=200",
     "title": "PetLog",
     "companyName": "Animal Care Co",
     "description": "Store medical records and set vaccine reminders for all your pets.",
     "size": 24.1,
     "reviews": 850,
     "ratingAvg": 4.2,
-    "downloads": 90000,
+    "downloads": 90,
     "ratings": [
       { "name": "1 star", "count": 70 },
       { "name": "2 star", "count": 80 },
@@ -422,7 +421,7 @@
     "size": 29.5,
     "reviews": 11000,
     "ratingAvg": 4.5,
-    "downloads": 2500000,
+    "downloads": 200,
     "ratings": [
       { "name": "1 star", "count": 500 },
       { "name": "2 star", "count": 500 },
@@ -440,7 +439,7 @@
     "size": 92.4,
     "reviews": 3400,
     "ratingAvg": 4.7,
-    "downloads": 1000000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 100 },
       { "name": "2 star", "count": 100 },
@@ -458,7 +457,7 @@
     "size": 47.0,
     "reviews": 2100,
     "ratingAvg": 4.1,
-    "downloads": 400000,
+    "downloads": 400,
     "ratings": [
       { "name": "1 star", "count": 250 },
       { "name": "2 star", "count": 250 },
@@ -476,7 +475,7 @@
     "size": 58.2,
     "reviews": 5600,
     "ratingAvg": 4.6,
-    "downloads": 1200000,
+    "downloads": 100,
     "ratings": [
       { "name": "1 star", "count": 150 },
       { "name": "2 star", "count": 150 },
@@ -492,7 +491,7 @@
     "companyName": "Restful Tech",
     "description": "Fall asleep faster with scientifically-backed soundscapes and white noise.",
     "size": 84.1,
-    "reviews": 12900,
+    "reviews": 129,
     "ratingAvg": 4.8,
     "downloads": 4500000,
     "ratings": [
@@ -512,7 +511,7 @@
     "size": 41.6,
     "reviews": 8200,
     "ratingAvg": 4.3,
-    "downloads": 2000000,
+    "downloads": 200,
     "ratings": [
       { "name": "1 star", "count": 800 },
       { "name": "2 star", "count": 700 },
@@ -530,7 +529,7 @@
     "size": 65.3,
     "reviews": 4700,
     "ratingAvg": 4.4,
-    "downloads": 800000,
+    "downloads": 80,
     "ratings": [
       { "name": "1 star", "count": 200 },
       { "name": "2 star", "count": 300 },
