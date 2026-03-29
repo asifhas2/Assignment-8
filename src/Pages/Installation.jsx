@@ -16,17 +16,21 @@ const Installation = () => {
 
 //    console.log(sortApps);
 
-   const handelSortItem = ()=>{
-    if(sortApps === 'high-low'){
-        return [...installApp].sort((a,b)=>b.downloads - a.downloads);
+  const handleSortItem = () => {
+    if (!installApp) return [];
+
+    const sortedApps = [...installApp];
+
+    if (sortApps === 'high-low') {
+        return sortedApps.sort((a, b) => b.downloads - a.downloads);
+    } 
+    else if (sortApps === 'low-high') {
+        return sortedApps.sort((a, b) => a.downloads - b.downloads);
+    } 
+    else {
+        return sortedApps;
     }
-    else if(sortApps === 'low-high'){
-        return [...installApp].sort((a,b)=>a.downloads - b.downloads)
-    }
-    else{
-        return installApp
-    }
-   }
+};
 
    const handelUninstallItem = (id) => {
     const storedData = localStorage.getItem('installData');
@@ -61,7 +65,7 @@ const Installation = () => {
                 </div>
                 <div>
                     {
-                        handelSortItem().map(data =><InstallCard handelUninstallItem={handelUninstallItem}  data={data}></InstallCard>)
+                        handleSortItem().map(data =><InstallCard handelUninstallItem={handelUninstallItem}  data={data}></InstallCard>)
                     }
                 </div>
             </div>
