@@ -19,13 +19,14 @@ const DetailsCard = ({appDetails}) => {
                 return toast("this products is already installed");
 
             }
-             toast("Install")
+            
             updateList=[...exastingData,appDetails]
         }
          else{
                updateList.push(appDetails);
             }
         localStorage.setItem('installData',JSON.stringify(updateList));
+         toast("Install")
     }
 
     if(!appDetails){
