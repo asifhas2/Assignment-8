@@ -12,6 +12,7 @@ export const router = createBrowserRouter([
     path: "/",
     Component:Root,
     errorElement:<Error></Error>,
+    hydrateFallbackElement: <span className="loading loading-ring loading-lg"></span>,
     children:[
         {
             index:true,

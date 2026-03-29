@@ -5,11 +5,12 @@ import { Link, useNavigate } from 'react-router';
 
 const AllAplication = () => {
     const {apps}=useAppStore();
+    const [loading, setLoading] = useState(false);
+
     const[search,setSearch]=useState('');
     const term = search.trim().toLocaleLowerCase();
     const getSearchItem = apps.filter(app =>app.title.toLocaleLowerCase().includes(term))
     const searchApps = term ?getSearchItem :apps;
-    
     console.log(searchApps);
 
     const navigate = useNavigate();
@@ -49,7 +50,7 @@ const AllAplication = () => {
     placeholder="Search..."
     className="w-full outline-none bg-transparent text-sm sm:text-base"
   />
-</label>
+                    </label>
                 </div>
                
                {

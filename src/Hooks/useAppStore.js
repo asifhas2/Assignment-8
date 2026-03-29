@@ -11,7 +11,7 @@ import { useEffect, useState } from "react"
     useEffect(()=>{
         setLoading(true)
 
-        axios('../appStore.json')
+        axios('/appStore.json')
         .then(data =>setApps(data.data))
         .then(err =>setError(err))
         .finally(()=>setLoading(false))
